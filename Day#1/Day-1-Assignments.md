@@ -46,8 +46,10 @@
 
 10-docker pull nginx <img width="575" alt="Screenshot 2024-09-28 at 14 35 53" src="https://github.com/user-attachments/assets/6528cdff-aa10-4877-80e5-623d4efd1714">
 
-11-docker run -idt nginx ![image](https://github.com/user-attachments/assets/4e1049e7-8e09-4079-b39f-87c990db1007)
+11-docker run -idt nginx <img width="487" alt="Screenshot 2024-09-28 at 14 38 30" src="https://github.com/user-attachments/assets/1b74024f-723e-47a6-91cd-0775677520b4">
 
+
+12-docker ps <img width="759" alt="Screenshot 2024-09-28 at 14 38 11" src="https://github.com/user-attachments/assets/01314d34-48be-4bab-bfca-dc7f86fc2afb">
 
 
 ***
