@@ -35,6 +35,10 @@
 3. docker system info
    <img width="664" alt="image" src="https://github.com/user-attachments/assets/a5a191b5-7464-48bc-bc93-2dc4adeed4aa">
 
+4. docker --help
+   <img width="687" alt="image" src="https://github.com/user-attachments/assets/3c87f128-1617-4ab6-9a2f-861b9b89f457">
+
+
 
 ***
 
