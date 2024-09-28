@@ -74,15 +74,19 @@
 ***
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-1- python hello world <img width="608" alt="image" src="https://github.com/user-attachments/assets/de5f399e-c202-46b5-8e88-03b39a384c31">
+1-python hello world <img width="608" alt="image" src="https://github.com/user-attachments/assets/de5f399e-c202-46b5-8e88-03b39a384c31">
 
-2- flask hello world <img width="1440" alt="image" src="https://github.com/user-attachments/assets/940f3862-984c-4095-899d-3f14e5b63d5e">
+2-flask hello world <img width="1440" alt="image" src="https://github.com/user-attachments/assets/940f3862-984c-4095-899d-3f14e5b63d5e">
 
 
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+
+1-flask app build <img width="863" alt="Screenshot 2024-09-28 at 15 54 48" src="https://github.com/user-attachments/assets/0dd65526-35c2-48b0-9aed-32473816761e">
+
+2-flask app push
+<img width="786" alt="Screenshot 2024-09-28 at 15 55 34" src="https://github.com/user-attachments/assets/0da4986e-d62c-47d3-ab7d-b3e82b485a5f">
 
 ***
 
