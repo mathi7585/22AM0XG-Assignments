@@ -48,8 +48,21 @@
 
 11-docker run -idt nginx <img width="487" alt="Screenshot 2024-09-28 at 14 38 30" src="https://github.com/user-attachments/assets/1b74024f-723e-47a6-91cd-0775677520b4">
 
-
 12-docker ps <img width="759" alt="Screenshot 2024-09-28 at 14 38 11" src="https://github.com/user-attachments/assets/01314d34-48be-4bab-bfca-dc7f86fc2afb">
+
+13-docker stop <img width="404" alt="Screenshot 2024-09-28 at 14 40 35" src="https://github.com/user-attachments/assets/2bb53b72-678b-4613-89f2-cf00b1ff1374">
+
+14-docker start <img width="426" alt="Screenshot 2024-09-28 at 14 41 30" src="https://github.com/user-attachments/assets/5a2bd2e6-3d20-40f3-a989-cb2f82a0d95b">
+
+15-docker restart <img width="413" alt="Screenshot 2024-09-28 at 14 41 51" src="https://github.com/user-attachments/assets/c17f64a3-07d5-4aa8-a5a7-9c9b214494c4">
+
+16-docker logs <img width="750" alt="Screenshot 2024-09-28 at 14 42 19" src="https://github.com/user-attachments/assets/a6cc3600-9eef-4bfe-bd00-c142ef058a4d">
+
+16-docker rm <img width="404" alt="Screenshot 2024-09-28 at 14 47 10" src="https://github.com/user-attachments/assets/2c7176b9-09aa-40d1-9239-58991bed0bb8">
+
+17-docker build -t mathi7585/imagename . <img width="774" alt="image" src="https://github.com/user-attachments/assets/0898c6e7-f273-4f8b-ae7c-9a88998e55a1">
+
+18-docker push imagename <img width="751" alt="image" src="https://github.com/user-attachments/assets/4f2dcb35-3b84-4ce6-ad4c-19441dcb1bc9">
 
 
 ***
