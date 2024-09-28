@@ -25,7 +25,16 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
-<img width="467" alt="Screenshot 2024-09-28 at 10 54 48" src="https://github.com/user-attachments/assets/4c183568-c29b-4205-ab3f-82b5301b415c">
+
+1. docker version
+   <img width="467" alt="Screenshot 2024-09-28 at 10 54 48" src="https://github.com/user-attachments/assets/4c183568-c29b-4205-ab3f-82b5301b415c">
+
+2. docker info
+   <img width="703" alt="Screenshot 2024-09-28 at 10 59 55" src="https://github.com/user-attachments/assets/952107fb-cfaf-46e7-a1eb-3dfe01e928bb">
+
+3. docker system info
+   <img width="664" alt="image" src="https://github.com/user-attachments/assets/a5a191b5-7464-48bc-bc93-2dc4adeed4aa">
+
 
 ***
 
