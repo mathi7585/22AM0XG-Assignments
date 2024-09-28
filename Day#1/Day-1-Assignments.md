@@ -1,4 +1,4 @@
-### Day 1 Assignments
+<img width="361" alt="image" src="https://github.com/user-attachments/assets/e1f8553a-09c1-41d2-9712-b54afc2c5552">### Day 1 Assignments
 
 > [!NOTE]
 > Pls edit this table while submitting the assignments
@@ -38,10 +38,15 @@
 
 6-docker login <img width="320" alt="Screenshot 2024-09-28 at 11 10 10" src="https://github.com/user-attachments/assets/8c6ff0c9-66e6-4a58-b8f5-50cb65b16017">
 
+7-docker logout <img width="414" alt="image" src="https://github.com/user-attachments/assets/d4d084c6-c95e-46e9-96bc-237903d47464">
+
+8-docker search nginx <img width="739" alt="image" src="https://github.com/user-attachments/assets/3049aed1-23ea-4389-a0c5-ae1817dfefd7">
+
 ***
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
-> Add your answer here!
+
+1- python --version <img width="361" alt="image" src="https://github.com/user-attachments/assets/3a71dee3-82c2-437f-a4f8-32ad611a2f80">
 
 ***
 
