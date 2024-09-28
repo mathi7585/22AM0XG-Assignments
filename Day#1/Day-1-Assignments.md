@@ -26,23 +26,17 @@
 
 #### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
 
-1-docker version
-   <img width="467" alt="Screenshot 2024-09-28 at 10 54 48" src="https://github.com/user-attachments/assets/4c183568-c29b-4205-ab3f-82b5301b415c">
+1-docker version <img width="467" alt="Screenshot 2024-09-28 at 10 54 48" src="https://github.com/user-attachments/assets/4c183568-c29b-4205-ab3f-82b5301b415c">
 
-2-docker info
-   <img width="703" alt="Screenshot 2024-09-28 at 10 59 55" src="https://github.com/user-attachments/assets/952107fb-cfaf-46e7-a1eb-3dfe01e928bb">
+2-docker info <img width="703" alt="Screenshot 2024-09-28 at 10 59 55" src="https://github.com/user-attachments/assets/952107fb-cfaf-46e7-a1eb-3dfe01e928bb">
 
-3-docker system info
-   <img width="664" alt="image" src="https://github.com/user-attachments/assets/a5a191b5-7464-48bc-bc93-2dc4adeed4aa">
+3-docker system info <img width="664" alt="image" src="https://github.com/user-attachments/assets/a5a191b5-7464-48bc-bc93-2dc4adeed4aa">
 
-4-docker --help
-   <img width="687" alt="image" src="https://github.com/user-attachments/assets/3c87f128-1617-4ab6-9a2f-861b9b89f457">
+4-docker --help <img width="687" alt="image" src="https://github.com/user-attachments/assets/3c87f128-1617-4ab6-9a2f-861b9b89f457">
 
-5-docker compose version
-   <img width="389" alt="Screenshot 2024-09-28 at 11 08 18" src="https://github.com/user-attachments/assets/eff7b401-a05a-4887-8e3b-cd3b63ac9f3e">
+5-docker compose version <img width="389" alt="Screenshot 2024-09-28 at 11 08 18" src="https://github.com/user-attachments/assets/eff7b401-a05a-4887-8e3b-cd3b63ac9f3e">
 
-6-docker login
-  <img width="320" alt="Screenshot 2024-09-28 at 11 10 10" src="https://github.com/user-attachments/assets/8c6ff0c9-66e6-4a58-b8f5-50cb65b16017">
+6-docker login <img width="320" alt="Screenshot 2024-09-28 at 11 10 10" src="https://github.com/user-attachments/assets/8c6ff0c9-66e6-4a58-b8f5-50cb65b16017">
 
 ***
 
