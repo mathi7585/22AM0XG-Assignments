@@ -38,7 +38,11 @@
 4. docker --help
    <img width="687" alt="image" src="https://github.com/user-attachments/assets/3c87f128-1617-4ab6-9a2f-861b9b89f457">
 
+5. docker compose version
+   <img width="389" alt="Screenshot 2024-09-28 at 11 08 18" src="https://github.com/user-attachments/assets/eff7b401-a05a-4887-8e3b-cd3b63ac9f3e">
 
+6. docker login
+  <img width="320" alt="Screenshot 2024-09-28 at 11 10 10" src="https://github.com/user-attachments/assets/8c6ff0c9-66e6-4a58-b8f5-50cb65b16017">
 
 ***
 
