@@ -1,0 +1,14 @@
+version: '3'
+services:
+  mathi:
+    image: "mathi7585/flask_app"
+    container_name: mathi_container
+    restart: always
+    ports:
+      - "7778:5000"
+  mathi1:
+    image: "mathi7585/flask_app"
+    container_name: mathi1_container
+    restart: always
+    ports:
+      - "8888:5000"
