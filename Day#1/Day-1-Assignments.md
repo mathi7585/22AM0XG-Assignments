@@ -11,8 +11,8 @@
 | <ul><li>- [x] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
 | <ul><li>- [ ] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
 | <ul><li>- [x] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
-| <ul><li>- [ ] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
-| <ul><li>- [ ] </li></ul> | Create a LinkedIn account with personal mail ID  |
+| <ul><li>- [x] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
+| <ul><li>- [x] </li></ul> | Create a LinkedIn account with personal mail ID  |
 
 ***
 
@@ -67,6 +67,9 @@
 19-docker tag <img width="843" alt="image" src="https://github.com/user-attachments/assets/f7e1e69c-65c4-4d51-b1d7-1f9391015fc0">
 
 20-docker save <img width="1285" alt="image" src="https://github.com/user-attachments/assets/31be1e17-6be3-46ae-ae94-3bfeaa9a77c8">
+
+21-docker load <img width="441" alt="Screenshot 2024-09-29 at 10 03 48" src="https://github.com/user-attachments/assets/9bd5f5a6-14f2-4dca-92b4-b9bde0408c3d">
+
 
 ***
 
