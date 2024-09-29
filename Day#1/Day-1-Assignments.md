@@ -74,6 +74,8 @@
 
 23-docker cp <img width="602" alt="image" src="https://github.com/user-attachments/assets/74ff357b-ce58-4250-b96b-040acc74f4cc">
 
+24-docker prune <img width="488" alt="image" src="https://github.com/user-attachments/assets/203fdcb6-ef90-4227-8490-b8f31c009786">
+
 
 ***
 
