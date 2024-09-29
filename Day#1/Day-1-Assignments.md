@@ -70,6 +70,8 @@
 
 21-docker load <img width="441" alt="Screenshot 2024-09-29 at 10 03 48" src="https://github.com/user-attachments/assets/9bd5f5a6-14f2-4dca-92b4-b9bde0408c3d">
 
+22-docker exec <img width="483" alt="image" src="https://github.com/user-attachments/assets/ac195789-ee48-4f71-939f-fc6c66ba46af">
+
 
 ***
 
