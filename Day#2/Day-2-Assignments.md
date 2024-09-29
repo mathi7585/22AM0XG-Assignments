@@ -32,7 +32,7 @@
 #### #2 Create a simple machine learning application. Execute the program in local and verify the accuracy
 #### Write the Dockerfile & create the docker image named : ml-docker-app. Run the docker image and verify the accuracy. Tag the image in this format : <dockerhub-username>:ml-docker-app. Push the image to DockerHub
 <img width="1134" alt="Screenshot 2024-09-29 at 18 12 25" src="https://github.com/user-attachments/assets/d6732d3d-51cf-405d-9d1c-8185c2346d14">
-
+<img width="1440" alt="Screenshot 2024-09-29 at 18 15 57" src="https://github.com/user-attachments/assets/de54f06a-52b7-420c-b39e-c0773a4553c6">
 ***
 
 #### #3 [Docker Compose] Create a docker compose file for the 2 images : your flask app and the machine learning app and run the same view the page in browser
