@@ -64,6 +64,8 @@
 
 18-docker push imagename <img width="751" alt="image" src="https://github.com/user-attachments/assets/4f2dcb35-3b84-4ce6-ad4c-19441dcb1bc9">
 
+19-docker tag <img width="843" alt="image" src="https://github.com/user-attachments/assets/f7e1e69c-65c4-4d51-b1d7-1f9391015fc0">
+
 
 ***
 
