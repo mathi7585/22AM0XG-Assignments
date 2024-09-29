@@ -5,12 +5,12 @@
 
 | Status         | Questions     | 
 |----------------|---------------|
-| <ul><li>- [ ] </li></ul> | Create a simple machine-learning application & verify the prediction based on the given score |
-| <ul><li>- [ ] </li></ul> | Create a simple machine-learning application & verify the accuracy |
-| <ul><li>- [ ] </li></ul> | [Docker Compose] Create a docker-compose file for the 2 images: your flask app and the machine learning app and run the same view the page in browser |
-| <ul><li>- [ ] </li></ul> | Commit all the code to GitHub Repo |
-| <ul><li>- [ ] </li></ul> | Document all the learnings with screenshots in the GitHub Wiki / in .md file |
-| <ul><li>- [ ] </li></ul> | Create a post on Linkedin  |
+| <ul><li>- [x] </li></ul> | Create a simple machine-learning application & verify the prediction based on the given score |
+| <ul><li>- [x] </li></ul> | Create a simple machine-learning application & verify the accuracy |
+| <ul><li>- [x] </li></ul> | [Docker Compose] Create a docker-compose file for the 2 images: your flask app and the machine learning app and run the same view the page in browser |
+| <ul><li>- [x] </li></ul> | Commit all the code to GitHub Repo |
+| <ul><li>- [x] </li></ul> | Document all the learnings with screenshots in the GitHub Wiki / in .md file |
+| <ul><li>- [x] </li></ul> | Create a post on Linkedin  |
 
 ***
 
@@ -24,7 +24,8 @@
 
 #### #1 Create a simple machine learning application. Execute the program in local and verify the prediction based on the given score. 
 #### Write the Dockerfile & create the docker image named : ml-docker-app-flask. Run the docker image and verify the prediction based on the given score. Tag the image in this format : <dockerhub-username>: ml-docker-app-flask. Push the image to DockerHub	
-> Add your answer here!
+<img width="822" alt="Screenshot 2024-09-29 at 15 49 54" src="https://github.com/user-attachments/assets/34b93981-c9af-4ade-8849-a80a1e8c6fdd">
+<img width="1440" alt="Screenshot 2024-09-29 at 18 11 38" src="https://github.com/user-attachments/assets/dca7d8bb-a165-4279-8d0e-ae3404482225">
 
 ***
 
