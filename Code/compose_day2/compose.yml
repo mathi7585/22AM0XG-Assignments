@@ -1,0 +1,14 @@
+version: '3'
+services:
+  mathi:
+    image: "mathi7585/email"
+    container_name: m_container
+    restart: always
+    # ports:
+    #   - "7778:5000"
+  mathi1:
+    image: "mathi7585/movie"
+    container_name: m1_container
+    restart: always
+    # ports:
+    #   - "8888:5000"
