@@ -72,6 +72,8 @@
 
 22-docker exec <img width="483" alt="image" src="https://github.com/user-attachments/assets/ac195789-ee48-4f71-939f-fc6c66ba46af">
 
+23-docker cp <img width="602" alt="image" src="https://github.com/user-attachments/assets/74ff357b-ce58-4250-b96b-040acc74f4cc">
+
 
 ***
 
