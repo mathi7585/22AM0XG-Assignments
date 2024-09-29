@@ -103,7 +103,11 @@
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
+1-Code
+<img width="1440" alt="Screenshot 2024-09-29 at 11 34 48" src="https://github.com/user-attachments/assets/064387ba-b6b9-4acd-b54d-798a88cf1061">
+
+2-Localhost
+<img width="719" alt="Screenshot 2024-09-29 at 11 40 11" src="https://github.com/user-attachments/assets/a5a9f623-c4fb-41a1-a50a-cebf6d47025b">
 
 ***
 
