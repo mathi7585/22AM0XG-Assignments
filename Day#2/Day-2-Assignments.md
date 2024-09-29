@@ -36,7 +36,7 @@
 ***
 
 #### #3 [Docker Compose] Create a docker compose file for the 2 images : your flask app and the machine learning app and run the same view the page in browser
-> Add your answer here!
+<img width="1130" alt="image" src="https://github.com/user-attachments/assets/011a7c70-20f9-493a-b979-c376a80cb085">
 
 ***
 
@@ -46,11 +46,9 @@
 ***
 
 #### #5 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
-
+Created ✅✅
 ***
 
 #### #6 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
-
+Created ✅✅
 ***
